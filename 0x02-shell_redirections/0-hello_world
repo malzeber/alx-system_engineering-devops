@@ -1,0 +1,2 @@
+#!/nim/bash
+echo 'Hello, World'
